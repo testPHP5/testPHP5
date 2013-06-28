@@ -1,4 +1,0 @@
-testPHP5
-========
-
-myTestProject
